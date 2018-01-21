@@ -2,10 +2,11 @@
 Converts a sentence into lowercase and counts each words frequency
 
 ## Requirements
-java 8 & maven must be installed
+* Java 8
+* Maven 3
 
 ## Running Tests
-mvn test
+    mvn test
 
 ## Running App
-mvn compile exec:java
+    mvn compile exec:java
